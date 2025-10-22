@@ -27,9 +27,8 @@ int main() {
     //single character
     char grade = 'A';
     std::cout << grade << '\n'; 
-    char initial = 'CBA';
+    char initial = 'M';
     std::cout << initial << '\n';
-    //overflow example
 
 
     // boolean (true or false)
