@@ -1,6 +1,7 @@
-#include <stdio.h>
+#include <iostream>
 
 int main() {
-    printf("Hello, world!\n");
+    std::cout << "I like pizza!" << '\n';
+    std::cout << "Its really good." << '\n';
     return 0;
 }
