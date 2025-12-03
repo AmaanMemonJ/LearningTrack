@@ -9,11 +9,14 @@ int main() {
     */
 
     const double pi  = 3.14;
-    // pi  = 3.14159; // not allowed
-    double radius = 10;
-    double circumference = 2 * pi * radius;
+    //  pi  = 3.14159; // not allowed
+    const int LIGHT_SPEED = 299792458; // in meters per second
+    const int width = 1920; 
+    const int height = 1080; 
 
-    std::cout << circumference << "cm" << '\n';
+    // think of a random constant
 
+    const int Pakistan_independence_year = 1947;
+    
     return 0;
 }
